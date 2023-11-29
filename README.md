@@ -2,28 +2,12 @@
 #### DNA Storage and Sequencing
 ![MasterHead](https://wp.technologyreview.com/wp-content/uploads/2017/05/dna-ms_0-7.gif?fit=1456,818)
 
-<h1 align="center">Hi 👋, I'm Si Rui Leong</h1>
-<h3 align="center">A passionate biomedical engineering graduate student from Malaysia, currently studying in SJTU</h3>
+<h1 align="left">AI-based Sanger Sequencing: The Future of DNA sequencing</h1>
+<h3 align="left">Introduction</h3>
 <img align="right" alt="Coding" width="200" src="https://github.com/jackleong23/jackleong23/blob/main/AI%20hif.gif">
+Throughout recent decades, genomic DNA mutations have posed significant challenges due to their complexity and the lack of effective methods for their detection and treatment. To decipher these mutations for the good of human health, DNA sequencing methods started to emerge and be discovered. The first major breakthrough in this domain occurred around 1975 when DNA sequencing was introduced as a revolutionary tool in genomic analysis. 
 
-- 🔭 I’m currently working on **AI for Sanger Sequencing**
+To date, various DNA sequencing methods have been introduced, for example Sanger Sequencing, Next-Generation Sequencing (NGS) and Illumina sequencing and nanopore. Despite the introduction of newer techniques such as Next-Generation Sequencing (NGS), Sanger Sequencing remains an enduring and effective method. NGS, a more recent sequencing technique, has rapidly gained prominence for its high-throughput capabilities and low-cost sequencing. While NGS significantly enhances the efficiency of sequencing by enabling rapid data generation, Sanger Sequencing still retains a crucial advantage: its accuracy. However, these sequencing techniques still lack detailed information to further improve the accuracy of the mutated sequence.
 
-- 🌱 I’m currently learning **R Language and also advanced Python coding**
+The purpose of this study was to develop an AI algorithm to assist Sanger Sequencing to provide detailed information and lead to a more accurate result. By using the AI algorithm, each mutated sequence can be found in the multi plex AD sequence and the starting location of each mutated sequence in the AD sequence can be identified.
 
-- 💬 Ask me about **DNA storage and sequencing**
-
-- 📫 How to reach me **leongsirui@gmail.com**
-
-- ⚡ Fun fact **I'm funny**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/https://www.facebook.com/jack.leong.338" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/jack.leong.338" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
-<h3 align="left">More About me</h3>
-<p align="left"></p>
-[Portfolio] (https://jackleong23.github.io/minimalist-portfolio/)
