@@ -1,7 +1,5 @@
 # Graduate-Research-Topic
-#### DNA Storage and Sequencing
-![MasterHead](https://wp.technologyreview.com/wp-content/uploads/2017/05/dna-ms_0-7.gif?fit=1456,818)
-
+![MasterHead](https://media.wired.com/photos/5c8eb81c4950d24718d6da74/master/w_1920,c_limit/Backchannel-Fables-and-Futures-175998170.gif)
 <h1 align="left">AI-based Sanger Sequencing: The Future of DNA sequencing</h1>
 <h3 align="left">Introduction</h3>
 <img align="right" alt="Coding" width="200" src="https://github.com/jackleong23/jackleong23/blob/main/AI%20hif.gif">
